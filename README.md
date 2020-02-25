@@ -1,2 +1,0 @@
-# getpostApi
-Created with CodeSandbox
